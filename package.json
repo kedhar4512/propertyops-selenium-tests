@@ -1,0 +1,16 @@
+{
+  "name": "property_ops_selenium_suite",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "test": "mocha \"tests/**/*.spec.js\" --timeout 60000"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.18.1",
+    "chromedriver": "^121.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
