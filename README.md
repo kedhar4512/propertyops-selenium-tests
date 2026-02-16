@@ -1,6 +1,6 @@
 # PropertyOps — Selenium E2E Suite (JavaScript)
 
-This project is a **automation suite**:
+This project is an **automation suite**:
 > “Write tests and fix existing tests in the automated testing suite” 
 
 It uses:
