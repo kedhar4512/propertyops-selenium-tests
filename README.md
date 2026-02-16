@@ -1,7 +1,7 @@
 # PropertyOps — Selenium E2E Suite (JavaScript)
 
-This project is a **professional automation suite** aligned with the job requirement:
-> “Write tests and fix existing tests in the automated testing suite” (Selenium preferred)
+This project is a **automation suite**:
+> “Write tests and fix existing tests in the automated testing suite” 
 
 It uses:
 - `selenium-webdriver`
@@ -12,7 +12,7 @@ It uses:
 ## Prerequisites
 - Node 18+
 - Google Chrome installed
-- Chromedriver available (auto-managed via `chromedriver` npm package)
+- Chromedriver available 
 
 ## Install & run
 ```bash
